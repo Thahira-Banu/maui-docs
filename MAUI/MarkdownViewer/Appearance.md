@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Customize Appearance in .NET MAUI MarkdownViewer | Syncfusion
+title: Customize Appearance in .NET MAUI Markdown Viewer | Syncfusion
 description: Learn how to style and customize the appearance of Markdown content using the MarkdownStyleSettings class in the Syncfusion .NET MAUI MarkdownViewer control.
 platform: MAUI
 control: SfMarkdownViewer
