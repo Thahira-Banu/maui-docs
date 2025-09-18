@@ -94,7 +94,7 @@ The appearance of headings and body content in SfMarkdownViewer can be customize
 
 The following output shows how these style settings enhance the appearance of rendered Markdown content:
 
-![.NET MAUI Markdown Viwewer content appearance customization.](images/maui-markdown-viewer-appearance.png)
+![.NET MAUI Markdown Viewer content appearance customization.](images/maui-markdown-viewer-appearance.png)
 
 With [MarkdownStyleSettings](https://help.syncfusion.com/cr/maui/Syncfusion.Maui.MarkdownViewer.MarkdownStyleSettings.html), you gain full control over how Markdown content looks in your .NET MAUI app, whether you're building a documentation viewer, a note-taking app, or a styled content portal.
 
